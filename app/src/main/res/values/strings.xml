@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GDK_Coding</string>
+    <string name="P">Panjang</string>
+    <string name="L">Lebar</string>
+    <string name="T">Tinggi</string>
+    <string name="R">Results</string>
+    <string name="C">Calculate</string>
+</resources>
